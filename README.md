@@ -1,5 +1,6 @@
 # nu_gan
-This repository contains the Python implementation for our paper  
+This repository contains the Python implementation for our paper 
+
 Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks 
 Bo Hu#,Ye Tang#,Eric I-Chao Chang, Yubo Fan, Maode Lai and Yan Xu* (* corresponding author; # equal contribution)
 
