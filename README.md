@@ -8,19 +8,19 @@ This repository contains the Python implementation for our paper Unsupervised Le
 
 ### Usage
 
-1) Download data
+#### 1) Download data
 
 Dataset A: [*Google Drive*](https://drive.google.com/file/d/10h1cJBiLcc9oGyWWea_2d0gefRo_GXfJ/view?usp=sharing)
 Dataset B: [*Google Drive*](https://drive.google.com/file/d/1kYik0ByDPiK94Xt4mvoV3lOah2Zfx3dH/view?usp=sharing)
 (original images: [*Google Drive*](https://drive.google.com/drive/folders/1GmFM8TEGMVdh17_F_rXxR6dR8ha20y8w?usp=sharing))
 
-2) Extract
+#### 2) Extract
 
 The default path should be *./experiemnt/data*. 
 You can make new directory */experiment* under the root, extract the data, then rename the directory name to *data*.
 You can also open *nu_gan.py* to change the default path.
 
-3) Usage
+#### 3) Usage
 
 Three tasks can be chosen using flags as follows.
 
