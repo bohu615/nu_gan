@@ -9,6 +9,7 @@ Specially thanks for the open source codes shared by [*caogang/wgan-gp*](https:/
 
 * [*Pytorch*](https://github.com/pytorch/pytorch)
 * [*HistomicsTK*](https://github.com/DigitalSlideArchive/HistomicsTK)
+* [*An Unofficial Compiled Version of HistomicsTK (Python 3.5.6, GCC 7.3.0, Ubuntu 16.04.3 LTS)*](https://drive.google.com/file/d/10jisjIPYJrYxhDTyQaNTZFmwx9QaXhZr/view?usp=sharing)
 
 
 ### Usage
